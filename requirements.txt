@@ -13,3 +13,4 @@ requests
 google-genai
 pydantic-settings
 pandas
+scikit-learn
